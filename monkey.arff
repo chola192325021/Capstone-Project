@@ -1,0 +1,14 @@
+@relation database
+@attribute transactionid numeric
+@attribute item1 string
+@attribute item2 string
+@attribute item3 string
+@attribute item4 string
+@attribute item5 string
+@data
+
+1,Μ,Ο,Ν,Κ,E,Y
+2,D,O,N,K,E,Y
+3,M, A, K, E, NULL, NULL
+4,M,U,C, K, Y, NULL
+5,C,O,O,Κ, Ι,Ε

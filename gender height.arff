@@ -1,0 +1,13 @@
+@relation dataset 
+@attribute Gender(male, female} 
+@attribute Height (>180 yes,no}
+@attribute Weight (>80 yes,no) 
+@data 
+male,yes,yes 
+male,no,no 
+female,no,yes 
+male,yes,no 
+female,yes,no 
+female,yes,yes 
+female,no,no 
+male,no,yes

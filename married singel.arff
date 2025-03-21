@@ -1,0 +1,9 @@
+@relation bank_customer
+@attribute martial string
+@attribute gender string
+@attribute age integer
+@attribute income integer
+@data
+"Married" female, 50, 50000
+"Single"male, 25,80000
+"Divorced"female, 40, 25000

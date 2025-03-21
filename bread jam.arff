@@ -1,0 +1,19 @@
+@relation dataset
+@attribute bread{true, false} 
+@attribute peanuts{true, false} 
+@attribute milk{true, false} 
+@attribute fruit{true, false} 
+@attribute jam{true, false} 
+@attribute soda{true, false} 
+@attribute chips{true, false} 
+@attribute steak{true, false} 
+@attribute cheese{true, false} 
+@attribute yogurt{true, false} 
+@data 
+true, true, true, true, true, false, false, false, false true, 
+false, true, true, true, true, true, false, false, false, false,
+false, false, true, true, true, true, false false, true, true,
+true, true, true, false, false, false true, false, true, false,
+true, true, true, false, false false, false, true, true, false, 
+true, true, false, false false, true, true, true, false, true, 
+false, false, false false, true, false, true, false, false, false, false, true
